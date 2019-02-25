@@ -2,7 +2,8 @@ package main
 
 func main(){
 
-	// connect to the database
+//anthony did work here
+// connect to the database
 	// query the database
 	// disconnect from the database
 
